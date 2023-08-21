@@ -1,5 +1,5 @@
 # Exploring Weather Patterns and Planning Vacations
-<img src="images/world.jpg" width="1000" height="491">
+<img src="images/world.jpg" width="1000" height="700">
  
 In this data exploration journey, we delve into the fascinating world of weather patterns and travel planning. By utilising Python's capabilities, we answer questions about the relationship between weather variables and latitude and go beyond by planning vacation destinations based on specific weather conditions. The journey comprises two parts: WeatherPy and VacationPy, both aimed at revealing insights and aiding vacation planning.
 
