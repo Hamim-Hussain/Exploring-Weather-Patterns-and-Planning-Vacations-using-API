@@ -30,6 +30,6 @@ WeatherPy utilises Python's versatility, citipy library, and the OpenWeatherMap 
 ## Part 2: VacationPy
 The second part, VacationPy, takes a practical twist by planning future vacations using Python. GeoViews and the Geoapify API come into play to create map visualisations and find suitable vacation spots. By narrowing down cities based on preferred weather conditions like temperature, wind speed, and cloudiness, we generate a map displaying cities with humidity as point size. Additionally, using the Geoapify API, we identify the closest hotels within a certain radius of these chosen cities and display hotel information on the map.
 
-![hotel_map](images/hotal_map.png)
+![hotel_map](images/hotel_map.png)
 
 By addressing the core question of weather trends as we approach the equator and transforming data-driven insights into actionable vacation plans, this exploration not only enriches our understanding of weather phenomena but also showcases the real-world applications of Python programming in data analysis and travel planning.
